@@ -1,0 +1,110 @@
+LogEntry {
+  appName: 'DV Project (Yelp)',
+  type: 'info',
+  timestamp: 2019-04-11T02:03:06.062Z,
+  message: 'Application running on 4000' }
+LogEntry {
+  appName: 'DV Project (Yelp)',
+  type: 'info',
+  timestamp: 2019-04-11T02:03:07.091Z,
+  message: 'Connected to db.' }
+LogEntry {
+  appName: 'DV Project (Yelp)',
+  type: 'info',
+  timestamp: 2019-04-11T02:03:07.094Z,
+  message: undefined }
+LogEntry {
+  appName: 'DV Project (Yelp)',
+  type: 'info',
+  timestamp: 2019-04-11T02:19:57.010Z,
+  message: 'Application running on 4000' }
+LogEntry {
+  appName: 'DV Project (Yelp)',
+  type: 'info',
+  timestamp: 2019-04-11T02:22:57.957Z,
+  message: 'Application running on 4000' }
+LogEntry {
+  appName: 'DV Project (Yelp)',
+  type: 'info',
+  timestamp: 2019-04-11T02:24:05.602Z,
+  message: 'Application running on 4000' }
+LogEntry {
+  appName: 'DV Project (Yelp)',
+  type: 'info',
+  timestamp: 2019-04-11T02:24:27.231Z,
+  message: 'Application running on 4000' }
+LogEntry {
+  appName: 'DV Project (Yelp)',
+  type: 'info',
+  timestamp: 2019-04-11T02:24:54.457Z,
+  message: 'Application running on 4000' }
+LogEntry {
+  appName: 'DV Project (Yelp)',
+  type: 'info',
+  timestamp: 2019-04-11T02:24:57.231Z,
+  message: 'Application running on 4000' }
+LogEntry {
+  appName: 'DV Project (Yelp)',
+  type: 'info',
+  timestamp: 2019-04-11T02:25:08.347Z,
+  message: 'Application running on 4000' }
+LogEntry {
+  appName: 'DV Project (Yelp)',
+  type: 'info',
+  timestamp: 2019-04-11T02:25:14.782Z,
+  message: 'Application running on 4000' }
+LogEntry {
+  appName: 'DV Project (Yelp)',
+  type: 'info',
+  timestamp: 2019-04-11T02:26:28.900Z,
+  message: 'Application running on 4000' }
+LogEntry {
+  appName: 'DV Project (Yelp)',
+  type: 'info',
+  timestamp: 2019-04-11T02:27:50.055Z,
+  message: 'Application running on 4000' }
+LogEntry {
+  appName: 'DV Project (Yelp)',
+  type: 'info',
+  timestamp: 2019-04-11T02:28:20.219Z,
+  message: 'Application running on 4000' }
+LogEntry {
+  appName: 'DV Project (Yelp)',
+  type: 'info',
+  timestamp: 2019-04-11T02:29:21.613Z,
+  message: 'Application running on 4000' }
+LogEntry {
+  appName: 'DV Project (Yelp)',
+  type: 'info',
+  timestamp: 2019-04-11T02:29:44.607Z,
+  message: 'Application running on 4000' }
+LogEntry {
+  appName: 'DV Project (Yelp)',
+  type: 'info',
+  timestamp: 2019-04-11T02:30:59.880Z,
+  message: 'Application running on 4000' }
+LogEntry {
+  appName: 'DV Project (Yelp)',
+  type: 'info',
+  timestamp: 2019-04-11T02:31:25.079Z,
+  message: 'Application running on 4000' }
+LogEntry {
+  appName: 'DV Project (Yelp)',
+  type: 'info',
+  timestamp: 2019-04-11T02:32:37.107Z,
+  message: 'Application running on 4000' }
+LogEntry {
+  appName: 'DV Project (Yelp)',
+  type: 'info',
+  timestamp: 2019-04-11T02:35:44.741Z,
+  message: 'Application running on 4000' }
+LogEntry {
+  appName: 'DV Project (Yelp)',
+  type: 'info',
+  timestamp: 2019-04-11T02:35:57.683Z,
+  message: 'Application running on 4000' }
+LogEntry {
+  appName: 'DV Project (Yelp)',
+  type: 'info',
+  timestamp: 2019-04-11T02:36:22.207Z,
+  message: 'Application running on 4000' }
